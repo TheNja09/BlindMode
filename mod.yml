@@ -1,5 +1,5 @@
 title: Blind Mode
-description: Removes most of the the text from Abilities and the Command Menu.
+description: Removes most of the the text from Abilities and the Command Menu. Must go above GoA.
 assets:
 - name: msg/jp/sys.bar
   multi:
