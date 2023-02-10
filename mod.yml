@@ -3,7 +3,7 @@ description: Removes most of the system text.
 assets:
 - name: msg/jp/sys.bar
   multi:
-  - name: msg/uk/sys.bar
+  - name: msg/us/sys.bar
   - name: msg/uk/sys.bar
   method: binarc
   source:
