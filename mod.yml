@@ -1,18 +1,6 @@
 title: Blind Mode
 description: Removes most of the system text. Ongoing mod, expect more deletions soon. Put above the Seed and GoA for best experience!
 assets:
-- name: msg/jp/sys.bar
-  multi:
-  - name: msg/us/sys.bar
-  - name: msg/uk/sys.bar
-  method: binarc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    source:
-    - name: sys.yml
-      language: en
 - name: remastered\msg\us\fontimage.bar\US_fontimage_bar0.png
   platform: pc
   method: copy
